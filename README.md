@@ -1,7 +1,7 @@
 # 👋🏼 Hello! Welcome to my Github profile.
 
 
-<b>I'm a PowerBI Developer/Analyst from São Paulo - Brazil.</b>
+<b>I'm a Data Engineer/Scientist from São Paulo - Brazil.</b>
 
 - 👀 I’m interested in learning new and applicable things, and very passional about cooking (as a hobby).
 - 🌱 I’m currently learning Power Apps Development, Data Science and Machine Learning.
