@@ -1,4 +1,4 @@
-# 👋🏼 Hello! Welcome to my Github profile.
+# 👋🏼 Hello! Welcome to my GitHub profile.
 
 
 <b>I'm a Data Engineer/Scientist from São Paulo - Brazil.</b>
